@@ -3,7 +3,7 @@
 A very basic rendering library prototype. Vector tiles are downloaded and
 parsed in web-workers and then drawn in a canvas element.
 
-This dataset [mnmappluto](https://rambo-test.carto.com/tables/mnmappluto/public/map)
+The dataset [mnmappluto](https://rambo-test.carto.com/tables/mnmappluto/public/map)
 was downloaded and then cut into vector tiles using tippecanoe
 using the following parameters:
 
