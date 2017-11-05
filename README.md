@@ -9,6 +9,8 @@ using the following parameters:
 
     tippecanoe -e /data/tiles -z 18 -y cartodb_id -y ct2010 -pC /data/mnmappluto.geojson
 
+Demo: https://tsauerwein.github.io/simple-map-renderer/
+
 ## Development
 
 Install the dependencies:
